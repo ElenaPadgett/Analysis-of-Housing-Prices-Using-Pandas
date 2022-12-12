@@ -5,4 +5,6 @@ The dataset contains the average home prices in all US cities since 1996.
 
 Full citation: ZHVI Single Homes Time Series ($) by City 1996 – 2018 (monthly).csv Retrived from https://www.zillow.com/research/data/ on 7/11/2018.
 
+Updated file: ZHVI Single Homes Time Series ($) by City 2000 – 2022 (monthly).csv Retrived from https://www.zillow.com/research/data/ on 12/05/2022.
+
 Note: Theodore Petrou's book "Pandas Cookbook: Recipes for Scientific Computing, Time Series Analysis and Data Visualization using Python" was invaluable in learning all the different ways to wrangle the data. 
